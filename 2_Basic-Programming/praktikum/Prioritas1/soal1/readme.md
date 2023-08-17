@@ -1,1 +1,1 @@
-![This is an alt text.](2_Basic-Programming\Screenshoot\prioritas1-1.png)
+![This is an alt text.](2_Basic-Programming\Screenshoot\prioritas1-1.png "prioritas1-1")

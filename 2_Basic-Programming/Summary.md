@@ -1,5 +1,4 @@
 # RESUME Basic Programming
-
 -perintah-perintah yang ada pada bahasa pemograman golang adalah sebagai berikut:
   1. go run adalah perintah untuk eksekusi program dengan ekstensinya adalah .go
   2. go build adalah perintah untuk mengkompile file program
@@ -8,12 +7,12 @@
   5. go test adalah perintah utuk test program golang
 
 -tipe data yang ada pada bahasa pemrograman dibagi menjadi 3 yaitu:
-   1. boolean dengan nilai true atau false
-   2. numerik dibagi menjadi 3 yaitu:
+  1. boolean dengan nilai true atau false
+  2. numerik dibagi menjadi 3 yaitu:
        a. integer
        b. float
        c. complex
-   3. string
+  3. string
 
 - percabangan yang ada pada golang adalah :
    1. IF

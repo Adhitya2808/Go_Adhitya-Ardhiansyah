@@ -9,9 +9,9 @@
 - tipe data yang ada pada bahasa pemrograman dibagi menjadi 3 yaitu:
   1. boolean dengan nilai true atau false
   2. numerik dibagi menjadi 3 yaitu:
-       a. integer
-       b. float
-       c. complex
+       1. integer
+       2. float
+       3. complex
   3. string
 
 - percabangan yang ada pada golang adalah :

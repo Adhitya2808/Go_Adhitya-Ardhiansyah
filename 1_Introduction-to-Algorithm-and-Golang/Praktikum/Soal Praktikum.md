@@ -14,3 +14,4 @@
    -  Memahami bahasa pemrograman back end, back end lebih sering menggunakan bahasa pemrograman seperti, Java, Python, PHP. Java merupakan bahasa pemrograman yang banyak digunakan dalam mengembangkan back end untuk aplikasi dan situs web. Sedangkan untuk melakukan pengkodingan terkait server, back end developer biasanya menggunakan Python dan PHP. 
    sumber : [blog.skillacademy.com](https://blog.skillacademy.com/perbedaan-front-end-dan-back-end).
 3. Buatlah sebuah flowchart untuk menghitung luas trapesium.
+- ![This is an alt text.](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/blob/main/1_Introduction-to-Algorithm-and-Golang/Screenshoot/Luas%20Trapesium.png)

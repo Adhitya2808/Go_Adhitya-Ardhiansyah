@@ -1,0 +1,9 @@
+# RESUME Time Complexity and Space Complexity
+- Time complexity berfungsi untuk mengukur seberapa cepat sebuah algoritma berjalan dalam hal jumlah operasi yang dilakukan sehubungan dengan ukuran inputnya. Lebih spesifiknya, time complexity memberikan perkiraan berapa banyak langkah (operasi) yang diperlukan oleh algoritma untuk menyelesaikan masalah sesuai dengan ukuran inputnya.
+- Time complexity sering diukur dengan menggunakan notasi "O" (big O notation). Notasi ini menyediakan batasan atas pada pertumbuhan waktu eksekusi algoritma saat ukuran inputnya membesar. Sebagai contoh:
+  1. O(1) (konstanta): Algoritma dengan time complexity konstan memiliki waktu eksekusi yang tidak tergantung pada ukuran input. Misalnya, mengakses elemen dalam array.
+  2. O(log n) (logaritmik): Algoritma dengan time complexity logaritmik berarti waktu eksekusinya tumbuh secara logaritmik terhadap ukuran input. Contohnya adalah pencarian biner dalam daftar yang terurut.
+  3. O(n) (linier): Algoritma linier memiliki waktu eksekusi yang tumbuh linear sesuai dengan ukuran input. Misalnya, iterasi melalui elemen-elemen dalam array.
+  4. O(n log n): Ini muncul dalam beberapa algoritma yang efisien seperti pengurutan cepat (quick sort) dan pengurutan bergabung (merge sort).
+  5. O(n^2), O(n^3), ... (kuadratik, kubik, dst.): Waktu eksekusi tumbuh sejajar dengan pangkat dari ukuran input. Contohnya adalah algoritma pengurutan gelembung (bubble sort).
+- Space complexity berfungsi untuk mengukur seberapa banyak ruang memori yang diperlukan oleh sebuah algoritma untuk menyelesaikan masalah sesuai dengan ukuran inputnya. Seperti time complexity, space complexity juga dapat diukur dengan menggunakan notasi "O". Space complexity mencakup semua ruang yang digunakan oleh algoritma, termasuk variabel sementara, tumpukan panggilan (call stack), dan struktur data tambahan yang dibuat selama eksekusi algoritma.

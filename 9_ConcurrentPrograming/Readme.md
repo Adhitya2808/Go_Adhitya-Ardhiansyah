@@ -1,3 +1,5 @@
+## Resume Concurrent Programming
+
 Concurrent programming di Golang merupakan kemampuan untuk menjalankan beberapa tugas secara simultan atau paralel pada waktu yang sama. Dalam Golang, concurrent programming dapat dilakukan dengan menggunakan goroutines, channels, dan select.
 
 Goroutines adalah lightweight threads yang dijalankan oleh Go runtime, yang memungkinkan aplikasi untuk menjalankan banyak tugas dalam waktu yang bersamaan tanpa perlu mengalami overhead yang besar seperti pada thread konvensional. Goroutines juga dapat berkomunikasi satu sama lain melalui channels, yang berfungsi sebagai media untuk mengirim dan menerima data antar goroutines.

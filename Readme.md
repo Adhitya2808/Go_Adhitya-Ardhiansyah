@@ -12,4 +12,13 @@ Ini Adalah Repository Untuk Pengumpulan Tugas Praktikum Golang Alterra Academy B
 - [Tugas Praktikum 9_Concurrent Programming](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/9_ConcurrentPrograming)
 - [Tugas Praktikum 10_Clean Code](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/10_CleanCode)
 - [Tugas Praktikum 11_Database DDL, DML](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/11_Database-DDL-DML)
+- [Tugas Praktikum 13_Join, Union, Agregasi, Subquery dan Function(DBMS)](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/12_Join-Union-Agregasi-Subquery-Function(DBMS))
+- [Tugas Praktikum 14_System Design]()
+- [Tugas Praktikum 15_Intro RESTFul API](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/15_IntroRESTFul-API)
+- [Tugas Praktikum 16_Intro Echo Golang](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/16_IntroEcho-Golang)
+- [Tugas Praktikum 17_ORM, Code Structure(MVC)](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/17_ORM_Code-Structure(MVC))
+- [Tugas Praktikum 18_Middleware](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/16_IntroEcho-Golang)
+- [Tugas Praktikum 19_Unit Testing]()
+- [Tugas Praktikum 20_Clean Architecture]()
+
 

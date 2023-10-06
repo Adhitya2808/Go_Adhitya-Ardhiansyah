@@ -9,7 +9,7 @@
   - View :
       - View adalah bagian dari aplikasi yang bertanggung jawab untuk menampilkan data kepada pengguna. Ini dapat berupa antarmuka pengguna grafis (seperti halaman web, formulir, atau aplikasi mobile), atau output dalam bentuk lain seperti file XML atau JSON.
       - View tidak memiliki logika bisnis. Tugasnya hanyalah menampilkan data yang diberikan kepadanya oleh Controller atau Model.
- - Controller:
+  - Controller:
       - Controller bertindak sebagai perantara antara Model dan View. Saat pengguna berinteraksi dengan View, Controller menangkap tindakan tersebut dan memprosesnya
       - Controller mengambil input dari pengguna (melalui View) dan mengonversinya menjadi perintah untuk Model atau View.
       - Controller menerima pembaruan dari Model (saat data berubah) dan memperbarui View untuk mencerminkan perubahan tersebut.

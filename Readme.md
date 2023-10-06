@@ -13,7 +13,7 @@
 - [Tugas Praktikum 10_Clean Code](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/10_CleanCode)
 - [Tugas Praktikum 11_Database DDL, DML](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/11_Database-DDL-DML)
 - [Tugas Praktikum 13_Join, Union, Agregasi, Subquery dan Function(DBMS)](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/12_Join-Union-Agregasi-Subquery-Function(DBMS))
-- [Tugas Praktikum 14_System Design]()
+- [Tugas Praktikum 14_System Design](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/14_SystemDesign)
 - [Tugas Praktikum 15_Intro RESTFul API](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/15_IntroRESTFul-API)
 - [Tugas Praktikum 16_Intro Echo Golang](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/16_IntroEcho-Golang)
 - [Tugas Praktikum 17_ORM, Code Structure(MVC)](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/17_ORM_Code-Structure(MVC))

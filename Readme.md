@@ -17,7 +17,7 @@
 - [Tugas Praktikum 15_Intro RESTFul API](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/15_IntroRESTFul-API)
 - [Tugas Praktikum 16_Intro Echo Golang](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/16_IntroEcho-Golang)
 - [Tugas Praktikum 17_ORM, Code Structure(MVC)](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/17_ORM_Code-Structure(MVC))
-- [Tugas Praktikum 18_Middleware](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/16_IntroEcho-Golang)
+- [Tugas Praktikum 18_Middleware](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/18_Middleware)
 - "Belum Selesai"[Tugas Praktikum 19_Unit Testing]()
 - "Belum selesai"[Tugas Praktikum 20_Clean Architecture]()
 

@@ -20,5 +20,10 @@
 - [Tugas Praktikum 18_Middleware](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/18_Middleware)
 - "Belum Selesai"[Tugas Praktikum 19_Unit Testing]()
 - "Belum selesai"[Tugas Praktikum 20_Clean Architecture]()
-
+- "Belum selesai"[Tugas Praktikum 21_Docker]()
+- "Belum selesai"[Tugas Praktikum 22_Compute Service]()
+- "Belum selesai"[Tugas Praktikum 23_CI/CD]()
+- "Belum selesai"[Tugas Praktikum 24_Perkenalan AI dan OpenAI]()
+- "Belum selesai"[Tugas Praktikum 25_Algoritma AI]()
+- "Belum selesai"[Tugas Praktikum 26_Penggunaan AI di Golang]()
 

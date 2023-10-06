@@ -1,5 +1,5 @@
 # Hello
-Ini Adalah Repository Untuk Pengumpulan Tugas Praktikum Golang Alterra Academy Batch 5 Yang Telah lengkap dan selesai Dikerjakan :
+Ini Adalah Repository Untuk Pengumpulan Tugas Praktikum Golang Alterra Academy Batch 5 Yang Telah lengkap dan selesai Dikerjakan (Soal Praktikum, Screenshoot, Summary):
 
 - [Tugas Praktikum 1_Introduction To Algorithm and Golang](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/1_Introduction-to-Algorithm-and-Golang)
 - [Tugas Praktikum 2_Basic Programming](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/2_Basic-Programming)

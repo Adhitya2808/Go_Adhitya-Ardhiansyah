@@ -1,0 +1,8 @@
+## Summary Problem Solving Paradigm
+
+Problem Solving Paradigm adalah suatu pendekatan atau kerangka kerja sistematis yang digunakan untuk memecahkan masalah. Paradigma ini mencakup pendekatan, metode, dan teknik yang digunakan oleh para pemecah masalah untuk mencari solusi yang efektif dan efisien terhadap suatu masalah yang dihadapi. Berikut adalah beberapa paradigma penyelesaian masalah yang umumnya digunakan dalam ilmu komputer dan bidang terkait:
+
+1. Divide and Conquer: Pendekatan ini melibatkan pembagian masalah besar menjadi beberapa submasalah yang lebih kecil, menyelesaikan submasalah tersebut secara terpisah, dan kemudian menggabungkan solusi-solusi tersebut untuk memecahkan masalah asli.
+2. Greedy Algorithms: Algoritma greedy memilih langkah terbaik pada setiap langkahnya dengan harapan bahwa pemilihan ini akan menghasilkan solusi optimal untuk masalah secara keseluruhan. Algoritma ini tidak selalu menghasilkan solusi optimal, tetapi seringkali memberikan solusi yang cukup baik dalam waktu yang cepat.
+3. Dynamic Programming: Paradigma ini melibatkan memecah masalah menjadi submasalah yang lebih kecil dan menyimpan solusi dari submasalah tersebut untuk menghindari perhitungan berulang. Digunakan ketika submasalah bersifat overlapping, artinya beberapa submasalah memiliki solusi yang sama.
+4. Algoritma Brute Force adalah pendekatan sederhana untuk memecahkan masalah dengan mencoba semua kemungkinan solusi secara sistematis. Metode ini melibatkan pengujian satu per satu dari semua kemungkinan solusi hingga solusi yang benar ditemukan. Algoritma Brute Force tidak menggunakan strategi cerdas atau heuristik untuk mengoptimalkan proses pencarian. Sebaliknya, ia secara eksplisit memeriksa setiap kemungkinan solusi yang mungkin.

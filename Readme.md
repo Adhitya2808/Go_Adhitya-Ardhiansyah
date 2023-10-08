@@ -22,7 +22,7 @@
 - "Belum Selesai"[Tugas Praktikum 19_Unit Testing]()
 - "Belum selesai"[Tugas Praktikum 20_Clean Architecture]()
 - [Tugas Praktikum 21_Docker](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/21_Docker)
-- "Belum selesai"[Tugas Praktikum 22_Compute Service]()
+- [Tugas Praktikum 22_Compute Service](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/22_ComputeService)
 - "Belum selesai"[Tugas Praktikum 23_CI/CD]()
 - "Belum selesai"[Tugas Praktikum 24_Perkenalan AI dan OpenAI]()
 - "Belum selesai"[Tugas Praktikum 25_Algoritma AI]()

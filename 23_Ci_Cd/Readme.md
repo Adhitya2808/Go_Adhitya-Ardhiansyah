@@ -9,4 +9,4 @@
     - Continuous Deployment adalah praktik yang mentargetkan pengiriman perangkat lunak ke produksi secara otomatis tanpa intervensi manusia setelah perubahan kode berhasil diuji.
 - Tujuan dari CI/CD adalah meningkatkan efisiensi, kualitas, dan kecepatan pengembangan perangkat lunak.
 
-- Link Repository [CI/CD(https://github.com/Adhitya2808/CI-CD)]
+- Link Repository [CI/CD](https://github.com/Adhitya2808/CI-CD)

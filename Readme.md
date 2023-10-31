@@ -24,7 +24,7 @@
 - [Tugas Praktikum 21_Docker](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/21_Docker)
 - [Tugas Praktikum 22_Compute Service](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/22_ComputeService)
 - [Tugas Praktikum 23_CI/CD](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/23_Ci_Cd/screenshoot)
-- "Belum selesai"[Tugas Praktikum 24_Perkenalan AI dan OpenAI]()
+- [Tugas Praktikum 24_Perkenalan AI dan OpenAI](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/24_IntroduceAI%26OpenAI)
 - "Belum selesai"[Tugas Praktikum 25_Algoritma AI]()
 - "Belum selesai"[Tugas Praktikum 26_Penggunaan AI di Golang]()
 

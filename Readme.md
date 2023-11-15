@@ -20,7 +20,7 @@
 - [Tugas Praktikum 17_ORM, Code Structure(MVC)](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/17_ORM_Code-Structure(MVC))
 - [Tugas Praktikum 18_Middleware](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/18_Middleware)
 - [Tugas Praktikum 19_Unit Testing](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/19_UnitTest)
-- "Belum selesai"[Tugas Praktikum 20_Clean Architecture]()
+- [Tugas Praktikum 20_Clean Architecture](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/20_Clean-Architecture)
 - [Tugas Praktikum 21_Docker](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/21_Docker)
 - [Tugas Praktikum 22_Compute Service](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/22_ComputeService)
 - [Tugas Praktikum 23_CI/CD](https://github.com/Adhitya2808/Go_Adhitya-Ardhiansyah/tree/main/23_Ci_Cd/screenshoot)
